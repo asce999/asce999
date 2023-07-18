@@ -24,7 +24,7 @@ My name is Aryan. I'm a 16-year-old programming enthusiast, I started programmin
 
 ## Social 😀
 1. [My Discord](https://discordapp.com/users/724573679710765166)
-2. [My Instagram](https://instagram.com/users/aryan.d.10)
+2. [My Instagram](https://instagram.com/users/aryxn.313)
 3. [My Reddit](https://reddit.com/users/luffyyy2007)
 
 ## My GitHub Stats 💯
