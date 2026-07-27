@@ -46,10 +46,8 @@
 
 | Area | Details |
 |---|---|
-| **Employer** | Ecofleet Express Pvt. Ltd. — Web Dev, Excel Systems, Client Coordination |
-| **Freelance Clients** | Ecofleet Express Pvt. Ltd. · Benchmark IT & Services · Paperworks Inc. |
+| **Freelance Clients** | Ecofleet Express Pvt. Ltd. - Web Dev, Excel Systems, Client Coordination |
 | **Education** | BTech Computer Engineering (Cybersecurity & Forensics), MIT-ADT Pune |
-| **Prior Education** | Diploma in Electronics & Telecommunications (ENTC), Trinity Polytechnic, Pune |
 
 ---
 
