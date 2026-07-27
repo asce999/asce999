@@ -12,8 +12,6 @@
 - 💼 Working full-time at **Ecofleet Express Pvt. Ltd.** — web development, Excel-driven logistics data systems, and client coordination
 - 🧑‍💻 Freelance **Full Stack Web Developer** for:
   - **Ecofleet Express Pvt. Ltd.** — website build & ongoing maintenance
-  - **Benchmark IT & Services** — website build, email marketing systems, and monthly maintenance
-- 🛠️ Also involved in a **stationery delivery startup** — app administration, web development & digital marketing
 - 🔐 Strong interest in **cybersecurity, forensics, and secure system design**
 - ⚙️ Background in **Electronics & Telecommunications (ENTC)** — built a Smart Safety Helmet (ESP32, MAX30105, MPU6050, MQ-3, NEO-6M, SIM800L) as my diploma capstone project
 - 📊 Comfortable turning messy operational data into clean dashboards and automated reports
