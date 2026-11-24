@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aryan D'Cruz
 
-**Full Stack Web Developer | Cybersecurity & Forensics Student | Pune, India**
+**Full Stack Web Developer | Cybersecurity & Forensics Student**
 
 ![Profile views](https://komarev.com/ghpvc/?username=asce999&color=blue&style=flat)
 
