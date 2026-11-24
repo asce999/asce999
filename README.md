@@ -8,10 +8,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **BTech in Computer Engineering (Cybersecurity & Forensics)** at **MIT-ADT University, Pune** (lateral entry, ENTC Diploma background)
-- 💼 Working full-time at **Ecofleet Express Pvt. Ltd.** — web development, Excel-driven logistics data systems, and client coordination
-- 🧑‍💻 Freelance **Full Stack Web Developer** for:
-  - **Ecofleet Express Pvt. Ltd.** — website build & ongoing maintenance
+- 🎓 Pursuing **BTech in Computer Engineering (Cybersecurity & Forensics)** (lateral entry, ENTC Diploma background)
+- 🧑‍💻 Freelance **Full Stack Web Developer**
 - 🔐 Strong interest in **cybersecurity, forensics, and secure system design**
 - ⚙️ Background in **Electronics & Telecommunications (ENTC)** — built a Smart Safety Helmet (ESP32, MAX30105, MPU6050, MQ-3, NEO-6M, SIM800L) as my diploma capstone project
 - 📊 Comfortable turning messy operational data into clean dashboards and automated reports
